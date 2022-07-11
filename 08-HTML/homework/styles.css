@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    align-items: center;   
+    background-image: url(https://img.freepik.com/foto-gratis/marron-beige-crema-claro-lujo-abstracto-como-fondo-modelo-textura-seda-algodon_1258-71591.jpg?w=2000);
+}
+
+h1 {
+  color: #488b3c;
+}
+
+img {
+  width: 400px;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: #728b71;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+  border: 5px #464646 solid;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
